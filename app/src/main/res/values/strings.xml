@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Capstone Project</string>
+    <string name="todo">TODO</string>
+    <string name="open"> Open Navigation Drawer</string>
+    <string name="close"> Close Navigation Drawer</string>
+    <string name="put_text_here">Put text here</string>
+    <string name="trip_information">Trip Information</string>
+    <string name="trip_list">Trip List</string>
+</resources>
